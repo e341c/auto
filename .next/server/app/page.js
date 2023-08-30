@@ -548,12 +548,9 @@ function Services() {
                 /*#__PURE__*/ jsx_runtime_.jsx("div", {
                     className: "d-flex justify-content-center mb-5",
                     children: /*#__PURE__*/ jsx_runtime_.jsx("img", {
-                        src: "/images/battery.jpg",
-                        alt: "",
-                        className: "img-fluid",
-                        style: {
-                            borderRadius: "10px"
-                        }
+                        src: "/images/background.jpeg",
+                        className: "img-fluid rounded",
+                        alt: ""
                     })
                 }),
                 /*#__PURE__*/ jsx_runtime_.jsx("div", {

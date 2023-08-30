@@ -20,7 +20,7 @@ export default function Services() {
                     </div>
                 </div>
                 <div className="d-flex justify-content-center mb-5" >
-                    <img src="/images/battery.jpg" alt="" className="img-fluid" style={{borderRadius: "10px"}}/>
+                    <img src="/images/background.jpeg" className="img-fluid rounded" alt="" />
                 </div>
                 <div className="mb-5">
                     <Link href={"tel:+77070178901"} className="btn btn-gold m-0 w-100">

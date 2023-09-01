@@ -2,6 +2,7 @@ import Desc from "@/components/desc"
 import Header from "@/components/header"
 import Info from "@/components/info"
 import Services from "@/components/services"
+import Head from "next/head";
 
 export default function Home() {
     return (

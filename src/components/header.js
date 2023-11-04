@@ -18,7 +18,7 @@ export default function Header() {
                         </Link>
                     </div>
                     <div>
-                        <Link href={"tel:+77070178901"} className="btn btn-gold m-0">
+                        <Link href={"tel:+77070178901"} className="btn btn-gold m-0" style={{color: "rgb(27, 25, 25)"}}>
                             <strong>Заказать услугу</strong>
                         </Link>
                     </div>

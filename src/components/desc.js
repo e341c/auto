@@ -5,7 +5,7 @@ export default function Desc() {
         <div className="d-flex flex-column align-items-center" style={{paddingTop: "130px"}}>
             <div className="container">
                 <h1 className="display-2 text-center text-light" style={{fontWeight: "500"}}>
-                    ПРИКУРИТЬ АВТО <br /> ОТ 3000 ТГ <br /> В ГОРОДЕ АЛМАТЫ 24/7 
+                    ПРИКУРИТЬ АВТО В ГОРОДЕ АЛМАТЫ 24/7 <br /> ЦЕНА ДОГОВОРНАЯ <br />
                 </h1>
                 <hr className="w-100 hr-gold" />
                 <Link href={"tel:+77070178901"} className="text-decoration-none">

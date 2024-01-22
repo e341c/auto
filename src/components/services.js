@@ -23,7 +23,7 @@ export default function Services() {
                     <img src="/images/background.jpeg" className="img-fluid rounded" alt="" />
                 </div>
                 <div className="mb-5">
-                    <Link href={"tel:+77070178901"} className="btn btn-gold m-0 w-100">
+                    <Link href={"tel:+77071164588"} className="btn btn-gold m-0 w-100">
                         <strong>Позвонить</strong>
                     </Link>
                 </div>

@@ -13,12 +13,12 @@ export default function Header() {
                 </div>
                 <div className="d-flex align-items-center">
                     <div className="me-3">
-                        <Link href={"https://api.whatsapp.com/send?phone=77070178901"} className="btn btn-outline-warning m-0">
+                        <Link href={"https://api.whatsapp.com/send?phone=77071164588"} className="btn btn-outline-warning m-0">
                             <strong>WhatsApp</strong>
                         </Link>
                     </div>
                     <div>
-                        <Link href={"tel:+77070178901"} className="btn btn-gold m-0" style={{color: "rgb(27, 25, 25)"}}>
+                        <Link href={"tel:+77071164588"} className="btn btn-gold m-0" style={{color: "rgb(27, 25, 25)"}}>
                             <strong>Заказать услугу</strong>
                         </Link>
                     </div>
